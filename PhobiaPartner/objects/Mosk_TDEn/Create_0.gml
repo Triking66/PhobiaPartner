@@ -1,6 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
+spd = 2;
+x_mov = 0;
+y_mov = 0;
 
-Plr_En_Col(); // Check collisions with enemies
-
-TDPlr_Mov(); // Move
+view = 200;

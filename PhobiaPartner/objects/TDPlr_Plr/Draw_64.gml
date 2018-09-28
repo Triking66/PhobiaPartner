@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-Plr_En_Col(); // Check collisions with enemies
-
-TDPlr_Mov(); // Move
+for (i=0; i < hp; i++){
+	draw_sprite(FullHeart_Spr, 0, i * 18, 0);
+}
