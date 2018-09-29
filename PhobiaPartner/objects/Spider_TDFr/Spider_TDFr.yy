@@ -1,14 +1,14 @@
 {
-    "id": "0a2d37d0-312c-4e56-adb9-d642b75b28c4",
+    "id": "bd46e6c1-ce68-42da-8b20-d8930c1a66d8",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Mosk_TDEn",
+    "name": "Spider_TDFr",
     "eventList": [
         
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "3d78a7be-10cf-4655-b13d-bed9bbccdb93",
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "7fc89cc3-661a-4e55-bfca-5a2007bfaf90",
+    "spriteId": "53509762-ea27-43cb-9038-e2c9e4234a43",
     "visible": true
 }

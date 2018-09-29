@@ -1,7 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-spd = 2;
-x_mov = 0;
-y_mov = 0;
+En_Spdr_Col();
 
-view = 200;
+TDEn_Mov();

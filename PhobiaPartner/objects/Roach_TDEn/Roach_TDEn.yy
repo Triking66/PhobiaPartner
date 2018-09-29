@@ -1,8 +1,8 @@
 {
-    "id": "0a2d37d0-312c-4e56-adb9-d642b75b28c4",
+    "id": "a8e113c5-64ce-4f5e-859a-bf5236f51f59",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Mosk_TDEn",
+    "name": "Roach_TDEn",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "7fc89cc3-661a-4e55-bfca-5a2007bfaf90",
+    "spriteId": "d315705a-ffdc-45b7-8629-b8bbece6f89a",
     "visible": true
 }

@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "53509762-ea27-43cb-9038-e2c9e4234a43",
+            "Value": {
+                "id": "eb723032-49f2-40d8-a268-16846ea0a742",
+                "resourcePath": "sprites\\Spider_Spr\\Spider_Spr.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5a3de3a8-66c7-4630-b733-5c3a030d630d",
             "Value": {
                 "id": "1737f120-5716-4f96-b2a0-2e5b7d1a5aad",
@@ -263,10 +271,26 @@
             }
         },
         {
+            "Key": "a71d8eb6-7ebb-4660-abce-f56577169a8d",
+            "Value": {
+                "id": "05338510-80ac-4581-b0f7-6b906c3246b7",
+                "resourcePath": "scripts\\En_Spdr_Col\\En_Spdr_Col.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "a7a75905-884a-457a-a952-a336eaeb4217",
             "Value": {
                 "id": "65d39b36-bc39-4caa-b9f9-f0139598dc76",
                 "resourcePath": "objects\\Tick_TDEn\\Tick_TDEn.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a8e113c5-64ce-4f5e-859a-bf5236f51f59",
+            "Value": {
+                "id": "a491eaad-5e66-4330-8c81-83629ddb5497",
+                "resourcePath": "objects\\Roach_TDEn\\Roach_TDEn.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -276,6 +300,22 @@
                 "id": "f8ad1e8e-aafe-4cd2-8745-8fd077547c61",
                 "resourcePath": "views\\ab556bdb-dd9b-4d3f-850f-808b0ed3bb18.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "af9750a7-d09b-48ff-bb55-9ab84951e789",
+            "Value": {
+                "id": "f628e366-649e-446f-8208-bdf24d3f84ff",
+                "resourcePath": "sprites\\SpiderVictory_Spr\\SpiderVictory_Spr.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "bd46e6c1-ce68-42da-8b20-d8930c1a66d8",
+            "Value": {
+                "id": "96701476-5426-4056-b498-1ed71abadbd1",
+                "resourcePath": "objects\\Spider_TDFr\\Spider_TDFr.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -290,8 +330,16 @@
             "Key": "ccb2cfb0-ec23-460a-bb4f-350c63017ef3",
             "Value": {
                 "id": "e4f3bde6-707f-4d34-9be8-0b3f757e6528",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\Tower_Lvl\\Tower_Lvl.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "d315705a-ffdc-45b7-8629-b8bbece6f89a",
+            "Value": {
+                "id": "8777ad91-32a6-41a6-b259-c761901012cd",
+                "resourcePath": "sprites\\Roach_Spr\\Roach_Spr.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -346,7 +394,8 @@
     "script_order": [
         "3c63fe5e-d759-41e1-9b60-3066e33270f0",
         "80553c74-aaa0-4848-8ded-477c9afd8e5a",
-        "a5432da9-ed64-4e1d-a953-6a02cdb44b33"
+        "a5432da9-ed64-4e1d-a953-6a02cdb44b33",
+        "a71d8eb6-7ebb-4660-abce-f56577169a8d"
     ],
     "tutorial": ""
 }
