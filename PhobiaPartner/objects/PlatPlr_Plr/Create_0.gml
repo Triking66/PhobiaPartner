@@ -6,8 +6,8 @@ term_vel = 10;
 jump_pulse = 15;
 
 hp = 5;
-jumps = 3;
-max_jumps = 3;
+jumps = 1;
+max_jumps = 1;
 
 x_mot = 0;
 y_mot = 0;

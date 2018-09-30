@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0008aa1a-144a-4c31-a594-27ae990a622c",
+            "Value": {
+                "id": "b7fb00da-d722-40f8-b3e0-861baaaa978d",
+                "resourcePath": "objects\\V_Moving_Wall_Stc\\V_Moving_Wall_Stc.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "04a1d65a-7cdf-4e10-9996-0cba3f48f21d",
             "Value": {
                 "id": "83c11159-a3ca-44e9-8ff3-93a0ae5a3a1d",
@@ -71,6 +79,14 @@
             }
         },
         {
+            "Key": "13effb1b-4d13-4e18-bbdf-82756236545e",
+            "Value": {
+                "id": "aef79b63-875a-4a9b-a64d-664b864d2fab",
+                "resourcePath": "objects\\Mov_Wall_Par\\Mov_Wall_Par.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1f85941f-498f-47dc-8a25-d425532352bf",
             "Value": {
                 "id": "d948027f-c69a-434f-af7e-2b85a3343c85",
@@ -108,6 +124,14 @@
                 "id": "daebc321-e2f8-4a9c-812f-1eff05db7722",
                 "resourcePath": "views\\36eef067-6f47-4300-adba-2dd35e321cdc.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "37d30654-3f0c-48e4-905a-56b3174095ca",
+            "Value": {
+                "id": "b453576b-ec41-4d57-b464-0b90d4cfb84d",
+                "resourcePath": "objects\\H_Moving_Wall_Stc\\H_Moving_Wall_Stc.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -295,11 +319,27 @@
             }
         },
         {
+            "Key": "a90ab7a5-6f2b-45b3-b4da-18d0ce387b58",
+            "Value": {
+                "id": "7556ac30-41cd-4e51-a61b-a6c0aad6599c",
+                "resourcePath": "scripts\\PlatPlr_Mov\\PlatPlr_Mov.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "ab556bdb-dd9b-4d3f-850f-808b0ed3bb18",
             "Value": {
                 "id": "f8ad1e8e-aafe-4cd2-8745-8fd077547c61",
                 "resourcePath": "views\\ab556bdb-dd9b-4d3f-850f-808b0ed3bb18.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ae0c2579-c864-47a8-b900-11fbd9e657df",
+            "Value": {
+                "id": "06c694b8-78b2-493e-89dc-21b55d6d9f2f",
+                "resourcePath": "scripts\\Wall_Mov\\Wall_Mov.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -395,7 +435,9 @@
         "3c63fe5e-d759-41e1-9b60-3066e33270f0",
         "80553c74-aaa0-4848-8ded-477c9afd8e5a",
         "a5432da9-ed64-4e1d-a953-6a02cdb44b33",
-        "a71d8eb6-7ebb-4660-abce-f56577169a8d"
+        "a71d8eb6-7ebb-4660-abce-f56577169a8d",
+        "a90ab7a5-6f2b-45b3-b4da-18d0ce387b58",
+        "ae0c2579-c864-47a8-b900-11fbd9e657df"
     ],
     "tutorial": ""
 }
