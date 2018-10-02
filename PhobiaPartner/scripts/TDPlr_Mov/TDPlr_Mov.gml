@@ -48,3 +48,7 @@ if place_meeting(x, y + y_mot, Wall_Stc){
 else {
 	y += y_mot;
 }
+
+if keyboard_check_pressed(ord("N")){
+	room_goto(Tower_Lvl)
+}

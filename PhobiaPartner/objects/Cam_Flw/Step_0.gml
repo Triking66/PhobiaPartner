@@ -1,3 +1,3 @@
 /// @description Insert description here
 // You can write your code in this editor
-Wall_Mov();
+y = Voidbox_Par.y - 448;

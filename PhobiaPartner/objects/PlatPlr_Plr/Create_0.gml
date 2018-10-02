@@ -13,3 +13,13 @@ x_mot = 0;
 y_mot = 0;
 
 x_mov = 0;
+
+safe_x = 0;
+safe_y = 0;
+
+anim_num = 0;
+anim_left = 0;
+anim_spd = 0.5;
+image_speed = 0;
+
+flash = 0;

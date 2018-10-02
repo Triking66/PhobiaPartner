@@ -31,19 +31,19 @@
     },
     "resources": [
         {
-            "Key": "0008aa1a-144a-4c31-a594-27ae990a622c",
-            "Value": {
-                "id": "b7fb00da-d722-40f8-b3e0-861baaaa978d",
-                "resourcePath": "objects\\V_Moving_Wall_Stc\\V_Moving_Wall_Stc.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "04a1d65a-7cdf-4e10-9996-0cba3f48f21d",
             "Value": {
                 "id": "83c11159-a3ca-44e9-8ff3-93a0ae5a3a1d",
                 "resourcePath": "sprites\\Wall_Spr\\Wall_Spr.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "077d541f-5a79-4ba1-a4a3-0859195b1d0a",
+            "Value": {
+                "id": "99535979-d643-43a0-937a-e76b7d496bc0",
+                "resourcePath": "objects\\Wall_Par\\Wall_Par.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -127,10 +127,10 @@
             }
         },
         {
-            "Key": "37d30654-3f0c-48e4-905a-56b3174095ca",
+            "Key": "376d0017-ef7f-4763-af08-30e3bb775d53",
             "Value": {
-                "id": "b453576b-ec41-4d57-b464-0b90d4cfb84d",
-                "resourcePath": "objects\\H_Moving_Wall_Stc\\H_Moving_Wall_Stc.yy",
+                "id": "372fafa7-41a1-40e7-9aac-b7e0cbcb670c",
+                "resourcePath": "objects\\Voidbox_Par\\Voidbox_Par.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -343,6 +343,14 @@
             }
         },
         {
+            "Key": "ae461930-7451-478f-b88e-ed9f62b24320",
+            "Value": {
+                "id": "4d3ebd7c-f3ca-4208-bbad-9143a1c30a96",
+                "resourcePath": "sprites\\Voidbox_Spr\\Voidbox_Spr.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "af9750a7-d09b-48ff-bb55-9ab84951e789",
             "Value": {
                 "id": "f628e366-649e-446f-8208-bdf24d3f84ff",
@@ -372,6 +380,22 @@
                 "id": "e4f3bde6-707f-4d34-9be8-0b3f757e6528",
                 "resourcePath": "rooms\\Tower_Lvl\\Tower_Lvl.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "ce06b858-d30e-4353-92da-5b6f802821fc",
+            "Value": {
+                "id": "7313b27c-ea48-4a79-b9f6-cd12df90dedf",
+                "resourcePath": "objects\\Cam_Flw\\Cam_Flw.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ce8cd291-40b6-452e-b947-481d4e5a4019",
+            "Value": {
+                "id": "44c8cc82-001f-4208-9d1b-648030bacc3c",
+                "resourcePath": "views\\ce8cd291-40b6-452e-b947-481d4e5a4019.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
