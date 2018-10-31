@@ -1,6 +1,9 @@
 if place_meeting(x, y, En_Par){
 	if (invincible <= 0){
 		hp -= 1;
+		if(hp <= 0){
+			room_goto(Rm_Menu);
+		}
 		invincible = inv_frm;
 	}
 }

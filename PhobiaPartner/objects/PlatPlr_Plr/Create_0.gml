@@ -19,7 +19,7 @@ safe_y = 0;
 
 anim_num = 0;
 anim_left = 0;
-anim_spd = 0.5;
+anim_spd = 0.3;
 image_speed = 0;
 
 flash = 0;

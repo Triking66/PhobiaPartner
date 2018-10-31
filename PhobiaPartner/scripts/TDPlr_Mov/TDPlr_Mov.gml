@@ -2,16 +2,32 @@ x_mov = 0;
 y_mov = 0;
 if keyboard_check(ord("W")){
 	y_mov -= 1;	
+	anim_dir = 3;
+	anim_num += anim_spd;
 }
 if keyboard_check(ord("S")){
 	y_mov += 1;	
+	anim_dir = 2;
+	anim_num += anim_spd;
 }
 if keyboard_check(ord("A")){
 	x_mov -= 1;
+	anim_dir = 1;
+	anim_num += anim_spd;
 }
 if keyboard_check(ord("D")){
 	x_mov += 1;
+	anim_dir = 0;
+	anim_num += anim_spd;
 }
+
+if(abs(x_mov) + abs(y_mov) == 0){
+	anim_num = 0;
+}
+if(anim_num >= 3){
+	anim_num = 0;
+}
+image_index = anim_num + anim_dir * 3
 
 if (y_mov != 0){
 	y_mot += y_mov;
