@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0292c509-6aa3-4a38-aa39-cfab5c6ca389",
+            "Value": {
+                "id": "d175f750-9993-438a-89b8-6b39afef8fce",
+                "resourcePath": "objects\\Hike_Wall_Obj\\Hike_Wall_Obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "045dab0e-2275-4dee-90f8-a2558e7f8b1c",
             "Value": {
                 "id": "64ddd45f-9ed3-4b3c-b0e6-1097ceace036",
@@ -68,6 +76,14 @@
                 "id": "8f1e9363-c9a6-4d88-b733-1a05ea2f1cd3",
                 "resourcePath": "objects\\PlatPlr_Plr\\PlatPlr_Plr.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "084ff6bd-c080-4525-b230-bb1134e194bf",
+            "Value": {
+                "id": "fdec63a8-bdb1-4d32-b84b-3d574f04f1f3",
+                "resourcePath": "sprites\\Hike_Wall\\Hike_Wall.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -124,6 +140,14 @@
                 "id": "bad17a3b-4b26-435c-ac5a-a0afa383f8a0",
                 "resourcePath": "sprites\\Counter\\Counter.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "0e69dd14-564f-4d6b-9b21-78de1dc27dd7",
+            "Value": {
+                "id": "3b730d88-6fd8-4a4e-8835-a99ddf8b2071",
+                "resourcePath": "rooms\\Tower_Lvl1\\Tower_Lvl1.yy",
+                "resourceType": "GMRoom"
             }
         },
         {

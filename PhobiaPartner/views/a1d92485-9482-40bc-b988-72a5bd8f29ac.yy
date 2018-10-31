@@ -10,7 +10,8 @@
         "ef725c8b-b678-435e-9d4c-e28cb4b83196",
         "653179c5-deb7-44ae-aaba-85745a748f05",
         "cadcec48-5a7a-43a4-9a8c-d6231adf2dd9",
-        "24eb76a3-494d-4233-a0aa-867c375c7e8c"
+        "24eb76a3-494d-4233-a0aa-867c375c7e8c",
+        "084ff6bd-c080-4525-b230-bb1134e194bf"
     ],
     "filterType": "GMSprite",
     "folderName": "Solids",
