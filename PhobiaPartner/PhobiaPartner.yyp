@@ -279,6 +279,14 @@
             }
         },
         {
+            "Key": "350fc94a-5076-4e09-aa56-ce6aa44ecfb9",
+            "Value": {
+                "id": "2ef9740b-eb65-487e-a641-1d3cc69fa4a1",
+                "resourcePath": "objects\\Asset_Kid_Dresser\\Asset_Kid_Dresser.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3540f89d-a304-431a-8993-757de4324607",
             "Value": {
                 "id": "0f7f34ac-7623-436a-b7b0-ce9b3a6fb31d",
@@ -308,6 +316,14 @@
                 "id": "daebc321-e2f8-4a9c-812f-1eff05db7722",
                 "resourcePath": "views\\36eef067-6f47-4300-adba-2dd35e321cdc.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "374f99a9-feac-4106-863c-3877c09a5fcc",
+            "Value": {
+                "id": "0351afe7-4524-4935-884c-e7b5155cf6d5",
+                "resourcePath": "objects\\Asset_Dresser\\Asset_Dresser.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -420,6 +436,14 @@
                 "id": "fb700265-b7fb-49d0-bd7d-5c20ef890c69",
                 "resourcePath": "scripts\\Scr_Lvl_Picker\\Scr_Lvl_Picker.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "699059c3-d718-4fe2-a821-34eefd568c22",
+            "Value": {
+                "id": "c52d4de8-bdaa-4e27-b82f-a2b8912e4bae",
+                "resourcePath": "sprites\\Parent_Dresser\\Parent_Dresser.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -812,6 +836,14 @@
                 "id": "7f40905d-3639-49b6-921e-c840233f3348",
                 "resourcePath": "views\\dbbd305e-df0d-4ae2-945f-c3619adce16a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "dc952ae1-fc7a-4dd1-8c08-4b05c86658d9",
+            "Value": {
+                "id": "63261e40-1ca4-4805-a68b-1c70cc9aa458",
+                "resourcePath": "sprites\\Kid_Dresser\\Kid_Dresser.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
