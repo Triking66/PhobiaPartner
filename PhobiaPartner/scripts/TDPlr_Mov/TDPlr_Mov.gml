@@ -48,16 +48,16 @@ else if (abs(x_mot) > 0){
 	x_mot -= sign(x_mot);
 }
 
-if place_meeting(x + x_mot, y, Wall_Stc){
-	while !place_meeting(x + sign(x_mot), y, Wall_Stc){
+if place_meeting(x + x_mot, y, Wall_Par){
+	while !place_meeting(x + sign(x_mot), y, Wall_Par){
 		x += sign(x_mot);	
 	}
 }
 else {
 	x += x_mot;
 }
-if place_meeting(x, y + y_mot, Wall_Stc){
-	while !place_meeting(x, y + sign(y_mot), Wall_Stc){
+if place_meeting(x, y + y_mot, Wall_Par){
+	while !place_meeting(x, y + sign(y_mot), Wall_Par){
 		y += sign(y_mot);	
 	}
 }
