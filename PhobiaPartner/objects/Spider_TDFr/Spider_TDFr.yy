@@ -4,7 +4,26 @@
     "mvc": "1.0",
     "name": "Spider_TDFr",
     "eventList": [
-        
+        {
+            "id": "20e76ce4-6952-4d4f-ba4f-e94d69f3890b",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "bd46e6c1-ce68-42da-8b20-d8930c1a66d8"
+        },
+        {
+            "id": "3eea80b5-a462-4ef0-aa2f-a560fe4b8ac7",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "bd46e6c1-ce68-42da-8b20-d8930c1a66d8"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

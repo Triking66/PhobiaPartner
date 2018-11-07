@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
-spd = 4;
-max_spd = 6;
+spd = 2;
+max_spd = 15;
 
 hp = 5;
 invincible = 0;
