@@ -863,6 +863,14 @@
             }
         },
         {
+            "Key": "c7e68a0d-c094-4d21-a8de-e0127bd8edd0",
+            "Value": {
+                "id": "90dacbcb-0968-411f-a105-b733b6a4640e",
+                "resourcePath": "rooms\\Heights_Lvl\\Heights_Lvl.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "cadcec48-5a7a-43a4-9a8c-d6231adf2dd9",
             "Value": {
                 "id": "c0b649e1-c11f-42a2-8176-85b3daec836a",
