@@ -6,7 +6,7 @@ if (instance_number(En_Par) <= 0){
 }
 else {
 	for (i=0; i < hp; i++){
-		draw_sprite(FullHeart_Spr, 0, i * 18, 0);
+		draw_sprite(FullHeart_Spr, 0, i * 66, 0);
 	}
-	draw_text(0, 18, "Number of bugs left: " + string(instance_number(En_Par)));
+	draw_text(0, 66, "Number of bugs left: " + string(instance_number(En_Par)));
 }

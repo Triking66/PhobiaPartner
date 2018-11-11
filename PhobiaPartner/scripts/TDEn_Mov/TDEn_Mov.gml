@@ -40,6 +40,12 @@ if(abs(TDPlr_Plr.x - x) + abs(TDPlr_Plr.y - y) < view){
 		x_mot -= sign(x_mot);
 	}
 	
+	if(abs(x_mot) + abs(y_mot) > max_spd){
+		var tot_spd = abs(x_mot) + abs(y_mot);
+		x_mot = x_mot / tot_spd * max_spd * 1.4;
+		y_mot = y_mot / tot_spd * max_spd * 1.4;
+	}
+	
 	if place_meeting(x + x_mot, y, Wall_Par){
 		while !place_meeting(x + sign(x_mot), y, Wall_Par){
 			x += sign(x_mot);	

@@ -3,23 +3,20 @@ y_mov = 0;
 if keyboard_check(ord("W")){
 	y_mov -= 1;	
 	anim_dir = 3;
-	anim_num += anim_spd;
 }
 if keyboard_check(ord("S")){
 	y_mov += 1;	
 	anim_dir = 2;
-	anim_num += anim_spd;
 }
 if keyboard_check(ord("A")){
 	x_mov -= 1;
 	anim_dir = 1;
-	anim_num += anim_spd;
 }
 if keyboard_check(ord("D")){
 	x_mov += 1;
 	anim_dir = 0;
-	anim_num += anim_spd;
 }
+anim_num += anim_spd;
 
 if(abs(x_mov) + abs(y_mov) == 0){
 	anim_num = 0;
@@ -36,7 +33,7 @@ if (y_mov != 0){
 	}
 }
 else if (abs(y_mot) > 0){
-	y_mot -= sign(y_mot);
+	y_mot = 0;
 }
 if (x_mov != 0){
 	x_mot += x_mov * spd;
@@ -45,7 +42,13 @@ if (x_mov != 0){
 	}
 }
 else if (abs(x_mot) > 0){
-	x_mot -= sign(x_mot);
+	x_mot = 0;
+}
+
+if(abs(x_mot) + abs(y_mot) > max_spd){
+	var tot_spd = abs(x_mot) + abs(y_mot);
+	x_mot = x_mot / tot_spd * max_spd * 1.4;
+	y_mot = y_mot / tot_spd * max_spd * 1.4;
 }
 
 if place_meeting(x + x_mot, y, Wall_Par){
