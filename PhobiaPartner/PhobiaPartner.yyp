@@ -583,6 +583,14 @@
             }
         },
         {
+            "Key": "7c8d1c23-6fc3-4035-8cc1-14d0bc85d3d6",
+            "Value": {
+                "id": "dfbe3176-52e0-49b9-a0be-81be889d06de",
+                "resourcePath": "objects\\Stump\\Stump.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7e80e822-457e-4dd3-97b5-f65a82ee4422",
             "Value": {
                 "id": "9f37eb9f-8413-4074-9e5c-dc1468751938",
