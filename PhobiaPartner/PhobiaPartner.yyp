@@ -847,6 +847,14 @@
             }
         },
         {
+            "Key": "c369ef7f-0ab2-479a-876c-90e1ab64c0df",
+            "Value": {
+                "id": "a06c9a65-a5a9-47ee-b08d-15db717589d1",
+                "resourcePath": "objects\\PlatPlr_Plr1\\PlatPlr_Plr1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c7e68a0d-c094-4d21-a8de-e0127bd8edd0",
             "Value": {
                 "id": "90dacbcb-0968-411f-a105-b733b6a4640e",
