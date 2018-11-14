@@ -4,7 +4,7 @@ spd = 1;
 max_spd = 5;
 max_fwd = 5;
 min_fwd = 2;
-jump_pulse = 15;
+bounce = 4;
 
 hp = 5;
 jumps = 1;
@@ -24,3 +24,4 @@ anim_spd = 0.3;
 image_speed = 0;
 
 flash = 0;
+flash_time = 50;

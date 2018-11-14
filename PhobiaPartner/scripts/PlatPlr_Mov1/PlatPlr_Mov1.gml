@@ -6,7 +6,7 @@ anim_dir = 3;
 anim_num += anim_spd;
 anim_spd=.18;
 
-if keyboard_check(ord("S")) or keyboard_check(vk_down){
+if (keyboard_check(ord("S")) or keyboard_check(vk_down)) and flash <= 0{
 	anim_spd=.1
 	y_mov += 0.2;	
 	anim_dir = 2;
@@ -38,7 +38,7 @@ if (y_mov != 0){
 	if (abs(y_mot) > max_fwd){
 		y_mot = sign(y_mot) * max_spd;
 	}
-	if (abs(y_mot) < min_fwd){
+	if (y_mot > -min_fwd and flash <= 0){
 		y_mot = -min_fwd;
 	}
 }
@@ -73,7 +73,21 @@ if place_meeting(x, y + y_mot, Wall_Par){
 	if(!audio_is_playing(Wall_Or_Furniture_Hit)){
 		audio_play_sound(Wall_Or_Furniture_Hit, 5, false);
 	}
+	if(flash <= 0){
+		y_mot = bounce;
+		flash = flash_time;
+	}
 }
 else {
 	y += y_mot;
+}
+
+if flash > 0 {
+	flash -= 1;
+	if (flash > 0){
+		image_alpha = flash % 2;
+	}
+	else {
+		image_alpha = 1;
+	}
 }
