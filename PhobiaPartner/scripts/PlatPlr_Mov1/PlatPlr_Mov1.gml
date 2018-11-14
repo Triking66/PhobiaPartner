@@ -8,7 +8,7 @@ anim_spd=.18;
 
 if keyboard_check(ord("S")) or keyboard_check(vk_down){
 	anim_spd=.1
-	y_mov += 1;	
+	y_mov += 0.2;	
 	anim_dir = 2;
 	anim_num += anim_spd;
 }
@@ -35,8 +35,11 @@ image_index = anim_num + anim_dir * 3
 
 if (y_mov != 0){
 	y_mot += y_mov * spd;
-	if (abs(y_mot) > max_spd){
+	if (abs(y_mot) > max_fwd){
 		y_mot = sign(y_mot) * max_spd;
+	}
+	if (abs(y_mot) < min_fwd){
+		y_mot = -min_fwd;
 	}
 }
 else if (abs(y_mot) > 0){

@@ -2,7 +2,8 @@
 // You can write your code in this editor
 spd = 1;
 max_spd = 5;
-term_vel = 10;
+max_fwd = 5;
+min_fwd = 2;
 jump_pulse = 15;
 
 hp = 5;
