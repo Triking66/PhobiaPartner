@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "0c612ee7-e993-4c23-8fd0-93b1ec9af5ea",
+            "Value": {
+                "id": "ffeb32cf-d5ee-4434-849c-9ee2f3782c9a",
+                "resourcePath": "views\\0c612ee7-e993-4c23-8fd0-93b1ec9af5ea.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "0c67dff3-fce8-4fe5-9db1-e2975a605bbd",
             "Value": {
                 "id": "5f081b42-d4c0-455c-9c15-9eba5c607a39",
@@ -167,6 +175,14 @@
             }
         },
         {
+            "Key": "1404faab-f7b2-46ef-9df7-061dd8250b90",
+            "Value": {
+                "id": "ca55cce9-8272-4679-a815-cb2a54ab7502",
+                "resourcePath": "sprites\\Boulder_Small\\Boulder_Small.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1979ca2d-cf10-4f7b-9228-33626a76727d",
             "Value": {
                 "id": "0049c69c-4d80-4e27-9db8-f65e0058f1f6",
@@ -236,6 +252,14 @@
                 "id": "fc7bfe83-99e7-4c90-91bb-c8e00c45a9cf",
                 "resourcePath": "rooms\\Rm_SpiderCS\\Rm_SpiderCS.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "2e20b877-eee7-4c9f-bca9-2000c11de5ca",
+            "Value": {
+                "id": "11a05754-9fa4-4bef-9697-68b45e115476",
+                "resourcePath": "views\\2e20b877-eee7-4c9f-bca9-2000c11de5ca.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -327,6 +351,14 @@
             }
         },
         {
+            "Key": "37435bc9-621f-4a0d-a578-b4ecfc53edd0",
+            "Value": {
+                "id": "d8ee6686-56af-432d-b1aa-b11409ce4558",
+                "resourcePath": "sprites\\Fallen_Tree\\Fallen_Tree.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "374f99a9-feac-4106-863c-3877c09a5fcc",
             "Value": {
                 "id": "0351afe7-4524-4935-884c-e7b5155cf6d5",
@@ -412,6 +444,14 @@
                 "id": "b474482d-ee29-454f-b580-109b990b0b6b",
                 "resourcePath": "objects\\Wall_Stc\\Wall_Stc.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "52bed7f1-99ff-42f9-b605-8853bcbd7826",
+            "Value": {
+                "id": "94330eb4-cf5f-4a8c-a9b2-74a36dddcd56",
+                "resourcePath": "sprites\\Boulder_Large\\Boulder_Large.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -519,6 +559,14 @@
             }
         },
         {
+            "Key": "752bd046-78a4-42b6-80e6-53790aa4f456",
+            "Value": {
+                "id": "32773bf8-9190-47f5-875f-bba899c5682f",
+                "resourcePath": "objects\\Medium_Boulder\\Medium_Boulder.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7b4d7912-fd26-4b64-8619-f0e514d04897",
             "Value": {
                 "id": "ec9c06b4-a3a6-430c-8ead-272de19e24b9",
@@ -591,6 +639,14 @@
             }
         },
         {
+            "Key": "89859c02-8990-4ff6-a037-03c085db9c7c",
+            "Value": {
+                "id": "0cc7a7b9-e328-4a9c-b659-b248a8290416",
+                "resourcePath": "objects\\Large_Boulder\\Large_Boulder.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8ade7f36-b981-4e89-b87d-17ebd8d0fa20",
             "Value": {
                 "id": "b10124fa-6670-4f44-b24f-c3e879b697ce",
@@ -612,6 +668,14 @@
                 "id": "18779729-6890-4f2c-bb2e-0a7fb8f04472",
                 "resourcePath": "rooms\\Rm_Instructions\\Rm_Instructions.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "8d009263-2140-4043-88c5-22129e7a2b60",
+            "Value": {
+                "id": "7649748b-283e-4420-b8b0-a89cd7c71963",
+                "resourcePath": "views\\8d009263-2140-4043-88c5-22129e7a2b60.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -823,6 +887,14 @@
             }
         },
         {
+            "Key": "b6b5faed-c720-485b-9430-874580b9153d",
+            "Value": {
+                "id": "afa118f2-02b9-44f6-8cea-88058dc62da1",
+                "resourcePath": "objects\\Fallen_Tree_WALL\\Fallen_Tree_WALL.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "bd214b87-52b7-40d5-90d4-e4b7e0bf20d6",
             "Value": {
                 "id": "e20f2aec-8c6f-4c02-ac55-e86fd1080efc",
@@ -999,6 +1071,14 @@
             }
         },
         {
+            "Key": "dc7cbc68-2d1c-4ba9-992b-87d899fac079",
+            "Value": {
+                "id": "e584869b-324c-46bf-8a31-88307ca58668",
+                "resourcePath": "sprites\\Boulder_Medium\\Boulder_Medium.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "dc952ae1-fc7a-4dd1-8c08-4b05c86658d9",
             "Value": {
                 "id": "63261e40-1ca4-4805-a68b-1c70cc9aa458",
@@ -1019,6 +1099,14 @@
             "Value": {
                 "id": "adfc48c0-fbec-43f0-b0da-898eebf1a1fc",
                 "resourcePath": "views\\e070a69a-5336-4bc2-bb1e-14b8fab76a9e.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e1535966-420e-4684-9d3b-53e87c4dd5b8",
+            "Value": {
+                "id": "1b61b517-bf13-459e-bd1a-03f708ed64d4",
+                "resourcePath": "views\\e1535966-420e-4684-9d3b-53e87c4dd5b8.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -1124,6 +1212,14 @@
                 "id": "357dd566-0e42-43dc-90d5-c2bf6c28dfc0",
                 "resourcePath": "sprites\\Desk\\Desk.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f918ce85-e902-4679-a164-7c34a39cfae1",
+            "Value": {
+                "id": "9b1a6f37-2f76-45f1-ad00-c7c3c9664457",
+                "resourcePath": "objects\\Small_Boulder\\Small_Boulder.yy",
+                "resourceType": "GMObject"
             }
         }
     ],
