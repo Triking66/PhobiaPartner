@@ -1,14 +1,14 @@
 {
-    "id": "7c8d1c23-6fc3-4035-8cc1-14d0bc85d3d6",
+    "id": "16b807de-05fe-4c85-8f8b-2d56df3af69e",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Stump",
+    "name": "Snek_MOVWAL",
     "eventList": [
         
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "parentObjectId": "13effb1b-4d13-4e18-bbdf-82756236545e",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "351d3a72-f075-48b5-97e5-ce155fa23f60",
+    "spriteId": "54ea328a-f827-4a88-a498-6773609b65c8",
     "visible": true
 }
