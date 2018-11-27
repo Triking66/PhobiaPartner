@@ -76,6 +76,11 @@ if place_meeting(x, y + y_mot, Wall_Par){
 	if(flash <= 0){
 		y_mot = bounce;
 		flash = flash_time;
+		hp -= 1;
+		if(hp <= 0){
+			audio_stop_all();
+			room_goto(Rm_Menu);
+		}
 	}
 }
 else {

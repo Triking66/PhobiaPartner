@@ -1,5 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
+hp = 5;
+
 spd = 1;
 max_spd = 5;
 max_fwd = 5;
