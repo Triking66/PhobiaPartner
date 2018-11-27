@@ -143,6 +143,14 @@
             }
         },
         {
+            "Key": "0de4e24d-66b2-4c95-8185-07057a7a3ad3",
+            "Value": {
+                "id": "e3a6febb-e1bd-4ebd-b4cf-c1ee4ce188c4",
+                "resourcePath": "objects\\Asset_Kitchen_Chair\\Asset_Kitchen_Chair.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "10677fd3-51d1-44be-9831-75167d22e6ce",
             "Value": {
                 "id": "3aa4b1f5-ae61-434f-83c7-6d4bed3f5b60",
@@ -543,6 +551,14 @@
             }
         },
         {
+            "Key": "5a2386d5-47d3-475d-9e38-078bdb401df9",
+            "Value": {
+                "id": "cdc31353-3989-4a98-b1af-33e548d1e0dd",
+                "resourcePath": "sprites\\Kitchen_Chair\\Kitchen_Chair.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5a3de3a8-66c7-4630-b733-5c3a030d630d",
             "Value": {
                 "id": "1737f120-5716-4f96-b2a0-2e5b7d1a5aad",
@@ -767,10 +783,10 @@
             }
         },
         {
-            "Key": "90250753-8e58-46f5-943e-52fd9d65f837",
+            "Key": "9099f69d-848a-44e1-90a3-23355cb7b560",
             "Value": {
-                "id": "b8cfe5de-6f40-4426-ad94-995f037bf5c8",
-                "resourcePath": "sprites\\sprite36\\sprite36.yy",
+                "id": "ce034635-5606-4566-a00a-391c3847aa6a",
+                "resourcePath": "sprites\\Office_Chair\\Office_Chair.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1019,6 +1035,14 @@
             "Value": {
                 "id": "a06c9a65-a5a9-47ee-b08d-15db717589d1",
                 "resourcePath": "objects\\PlatPlr_Plr1\\PlatPlr_Plr1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c76b32d0-738f-4d8c-8ef5-eb96d0bc0aa7",
+            "Value": {
+                "id": "cb69dec3-d601-4341-a5e2-594a0a371c97",
+                "resourcePath": "objects\\Asset_Office_Chair\\Asset_Office_Chair.yy",
                 "resourceType": "GMObject"
             }
         },
