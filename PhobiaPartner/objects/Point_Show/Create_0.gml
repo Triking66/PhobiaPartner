@@ -1,7 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-
-if(!level_end){
-	PlatPlr_Mov1();
-}
-
+time = room_speed;
+num = 0;
+spd = 3;

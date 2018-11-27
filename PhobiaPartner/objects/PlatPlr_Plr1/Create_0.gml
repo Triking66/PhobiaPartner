@@ -27,3 +27,5 @@ image_speed = 0;
 
 flash = 0;
 flash_time = 50;
+
+level_end = false;
