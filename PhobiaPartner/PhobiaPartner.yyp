@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "0a0d11f4-c7c1-4543-add2-d075d7a6569c",
+            "Value": {
+                "id": "cfe5aa3b-e694-47e6-b535-ff5880efd0ec",
+                "resourcePath": "objects\\Level_2_End_Cutscene\\Level_2_End_Cutscene.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0a2d37d0-312c-4e56-adb9-d642b75b28c4",
             "Value": {
                 "id": "769174eb-22d3-439c-96dc-51d2aa9da30b",
@@ -156,6 +164,14 @@
                 "id": "3aa4b1f5-ae61-434f-83c7-6d4bed3f5b60",
                 "resourcePath": "views\\10677fd3-51d1-44be-9831-75167d22e6ce.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "108613b2-6a1b-4d20-a36c-09fa98186ca1",
+            "Value": {
+                "id": "0bf13b1b-39b8-4cc5-a915-93bf5c8e984a",
+                "resourcePath": "objects\\Point_Show\\Point_Show.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -703,6 +719,14 @@
             }
         },
         {
+            "Key": "8658dd72-3227-471a-94aa-b22e3132870d",
+            "Value": {
+                "id": "ec2ed199-ad0e-4696-8da7-d1b884c8e4d9",
+                "resourcePath": "sprites\\Level_1_End_Screen\\Level_1_End_Screen.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "869cd199-bc2d-48ef-951f-67029e930f24",
             "Value": {
                 "id": "67a723c9-37d4-4fd1-88f9-45401f8b382b",
@@ -785,8 +809,13 @@
         {
             "Key": "9099f69d-848a-44e1-90a3-23355cb7b560",
             "Value": {
+<<<<<<< HEAD
                 "id": "ce034635-5606-4566-a00a-391c3847aa6a",
                 "resourcePath": "sprites\\Office_Chair\\Office_Chair.yy",
+=======
+                "id": "b8cfe5de-6f40-4426-ad94-995f037bf5c8",
+                "resourcePath": "sprites\\Invisible\\Invisible.yy",
+>>>>>>> parent of 2b56495... Revert "Level 1: Score system / Level 2: Cutscene Trigger at end"
                 "resourceType": "GMSprite"
             }
         },
@@ -995,6 +1024,14 @@
             "Value": {
                 "id": "afa118f2-02b9-44f6-8cea-88058dc62da1",
                 "resourcePath": "objects\\Fallen_Tree_WALL\\Fallen_Tree_WALL.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "bbce8e03-6a00-45d3-9ed4-0f29819a86f5",
+            "Value": {
+                "id": "2acedbae-a5bb-4d4b-b51b-162678173b19",
+                "resourcePath": "objects\\Level2_End\\Level2_End.yy",
                 "resourceType": "GMObject"
             }
         },
