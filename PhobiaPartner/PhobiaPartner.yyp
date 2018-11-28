@@ -983,6 +983,14 @@
             }
         },
         {
+            "Key": "aba3be9b-e5c7-45fa-9d5e-05db4caab06d",
+            "Value": {
+                "id": "9e342735-8190-4ace-9229-2588f8be53d3",
+                "resourcePath": "rooms\\Rm_HikeEndCS\\Rm_HikeEndCS.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "ae0c2579-c864-47a8-b900-11fbd9e657df",
             "Value": {
                 "id": "06c694b8-78b2-493e-89dc-21b55d6d9f2f",

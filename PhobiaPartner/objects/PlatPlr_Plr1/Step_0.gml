@@ -5,3 +5,6 @@ if(!level_end){
 	PlatPlr_Mov1();
 }
 
+if PlatPlr_Plr1.y < 665{
+	room_goto(Rm_HikeEndCS);
+}

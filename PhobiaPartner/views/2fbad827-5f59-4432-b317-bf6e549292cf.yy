@@ -5,7 +5,8 @@
     "name": "2fbad827-5f59-4432-b317-bf6e549292cf",
     "children": [
         "2a803f06-4701-4614-9efd-270ddf6e2f4f",
-        "cc8112c0-721d-4b96-bc7b-20bac4639d04"
+        "cc8112c0-721d-4b96-bc7b-20bac4639d04",
+        "aba3be9b-e5c7-45fa-9d5e-05db4caab06d"
     ],
     "filterType": "GMRoom",
     "folderName": "CutScenes",
