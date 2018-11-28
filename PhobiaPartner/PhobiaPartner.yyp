@@ -383,6 +383,14 @@
             }
         },
         {
+            "Key": "3534fca4-b7d3-4b7a-b168-2779e5493b04",
+            "Value": {
+                "id": "3d49f538-d646-49f9-a7d9-fa5253dd063c",
+                "resourcePath": "sprites\\Kitchen_Chair\\Kitchen_Chair.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3540f89d-a304-431a-8993-757de4324607",
             "Value": {
                 "id": "0f7f34ac-7623-436a-b7b0-ce9b3a6fb31d",
@@ -580,6 +588,14 @@
                 "id": "14dc72a7-70e7-4fc0-bd0d-55669c1a7406",
                 "resourcePath": "sounds\\flying_mosquito\\flying_mosquito.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "607dc3c1-a4d0-4748-a798-6cf547c1bfee",
+            "Value": {
+                "id": "c6a527f7-5047-4297-9512-1857bb0afe81",
+                "resourcePath": "objects\\Asset_Kitchen_Chair\\Asset_Kitchen_Chair.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -868,6 +884,14 @@
                 "id": "5ff3a483-4af7-4c11-99c9-95622e40682d",
                 "resourcePath": "views\\a1c5200c-851a-4e7d-93e3-1f27b0e338b8.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a1cb4d8d-ade1-4e66-a09e-bfb09416b95c",
+            "Value": {
+                "id": "c055c114-2ec5-4472-9362-3c2d31b86fc4",
+                "resourcePath": "sprites\\Office_Chair\\Office_Chair.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1275,6 +1299,14 @@
             "Value": {
                 "id": "fa10b160-da8b-4cc3-8c5b-2d19f91863f0",
                 "resourcePath": "objects\\HowTo\\HowTo.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e751f9a4-4e05-4b7e-9e24-bc5bc211c728",
+            "Value": {
+                "id": "d69a9a1c-db0c-4fb6-9137-271c053c064c",
+                "resourcePath": "objects\\Asset_Office_Chair\\Asset_Office_Chair.yy",
                 "resourceType": "GMObject"
             }
         },

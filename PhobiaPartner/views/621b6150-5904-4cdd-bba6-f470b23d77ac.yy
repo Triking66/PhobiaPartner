@@ -16,7 +16,9 @@
         "699059c3-d718-4fe2-a821-34eefd568c22",
         "ee970c82-a349-4a7e-90bf-0144c9550b49",
         "f6f5e168-9c8e-4993-b927-734b801bf29c",
-        "bcabd8a7-8968-4f5a-bb7e-7655d72ad31b"
+        "bcabd8a7-8968-4f5a-bb7e-7655d72ad31b",
+        "a1cb4d8d-ade1-4e66-a09e-bfb09416b95c",
+        "3534fca4-b7d3-4b7a-b168-2779e5493b04"
     ],
     "filterType": "GMSprite",
     "folderName": "Furniture",
