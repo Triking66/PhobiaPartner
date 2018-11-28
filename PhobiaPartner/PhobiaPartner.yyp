@@ -151,6 +151,7 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "10677fd3-51d1-44be-9831-75167d22e6ce",
             "Value": {
                 "id": "3aa4b1f5-ae61-434f-83c7-6d4bed3f5b60",
@@ -159,6 +160,8 @@
             }
         },
         {
+=======
+>>>>>>> parent of e6e5b7d... Revert "Revert "Level 1: Score system / Level 2: Cutscene Trigger at end""
             "Key": "1183b0b5-47fd-48f0-ac05-2f16613099f5",
             "Value": {
                 "id": "96b47aab-b303-4746-bde2-994525c30153",
@@ -785,8 +788,13 @@
         {
             "Key": "9099f69d-848a-44e1-90a3-23355cb7b560",
             "Value": {
+<<<<<<< HEAD
                 "id": "ce034635-5606-4566-a00a-391c3847aa6a",
                 "resourcePath": "sprites\\Office_Chair\\Office_Chair.yy",
+=======
+                "id": "b8cfe5de-6f40-4426-ad94-995f037bf5c8",
+                "resourcePath": "sprites\\sprite36\\sprite36.yy",
+>>>>>>> parent of e6e5b7d... Revert "Revert "Level 1: Score system / Level 2: Cutscene Trigger at end""
                 "resourceType": "GMSprite"
             }
         },
