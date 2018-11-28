@@ -8,7 +8,14 @@
         "37435bc9-621f-4a0d-a578-b4ecfc53edd0",
         "52bed7f1-99ff-42f9-b605-8853bcbd7826",
         "dc7cbc68-2d1c-4ba9-992b-87d899fac079",
-        "351d3a72-f075-48b5-97e5-ce155fa23f60"
+        "351d3a72-f075-48b5-97e5-ce155fa23f60",
+        "000c6081-6aa4-4db2-92d7-8ab5da0c7c94",
+        "837e0ece-7571-4e9a-bf00-f807fb32dd21",
+        "f42fe490-d552-4d10-b19d-595768281de8",
+        "42548f7a-2ee4-4299-abfc-fe86b19eec37",
+        "1b8a14d6-c161-4fa0-9d4f-2a64bfb701cd",
+        "a18a66f8-92f3-4340-ab34-0b4a6d723822",
+        "e5eb7a4a-fc57-455e-8d45-e0b6607b801d"
     ],
     "filterType": "GMSprite",
     "folderName": "Nature",
