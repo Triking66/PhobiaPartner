@@ -152,6 +152,7 @@
         },
         {
 <<<<<<< HEAD
+<<<<<<< HEAD
             "Key": "10677fd3-51d1-44be-9831-75167d22e6ce",
             "Value": {
                 "id": "3aa4b1f5-ae61-434f-83c7-6d4bed3f5b60",
@@ -160,6 +161,8 @@
             }
         },
         {
+=======
+>>>>>>> parent of e6e5b7d... Revert "Revert "Level 1: Score system / Level 2: Cutscene Trigger at end""
 =======
 >>>>>>> parent of e6e5b7d... Revert "Revert "Level 1: Score system / Level 2: Cutscene Trigger at end""
             "Key": "1183b0b5-47fd-48f0-ac05-2f16613099f5",
@@ -794,6 +797,9 @@
 =======
                 "id": "b8cfe5de-6f40-4426-ad94-995f037bf5c8",
                 "resourcePath": "sprites\\sprite36\\sprite36.yy",
+<<<<<<< HEAD
+>>>>>>> parent of e6e5b7d... Revert "Revert "Level 1: Score system / Level 2: Cutscene Trigger at end""
+=======
 >>>>>>> parent of e6e5b7d... Revert "Revert "Level 1: Score system / Level 2: Cutscene Trigger at end""
                 "resourceType": "GMSprite"
             }
