@@ -727,6 +727,14 @@
             }
         },
         {
+            "Key": "88361a32-6b21-4d39-abfe-9029772b4e90",
+            "Value": {
+                "id": "76aaa410-b15b-4a5d-aad2-e0c7c70aae21",
+                "resourcePath": "sprites\\Wall_Spr1\\Wall_Spr1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8871210f-068f-4839-939c-c7a6f5bf69c2",
             "Value": {
                 "id": "f13195f1-a42c-4624-af9b-85cd3ac2c980",
@@ -871,6 +879,14 @@
             }
         },
         {
+            "Key": "a3824d0b-52ee-4690-81ff-e02bc8e1a5df",
+            "Value": {
+                "id": "27df5a3f-d095-4032-83d1-de4a9c4e05f2",
+                "resourcePath": "sprites\\Heights_EndCutscene\\Heights_EndCutscene.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a5432da9-ed64-4e1d-a953-6a02cdb44b33",
             "Value": {
                 "id": "874f829c-30c6-4682-9fd8-5b91a1542015",
@@ -1003,6 +1019,14 @@
             "Value": {
                 "id": "afa118f2-02b9-44f6-8cea-88058dc62da1",
                 "resourcePath": "objects\\Fallen_Tree_WALL\\Fallen_Tree_WALL.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b941d1b4-9e27-4881-b547-f0ef3e7faaed",
+            "Value": {
+                "id": "e35e31a3-537d-4e8d-a374-fd6937d8ca4b",
+                "resourcePath": "objects\\Wall_Stc1\\Wall_Stc1.yy",
                 "resourceType": "GMObject"
             }
         },
