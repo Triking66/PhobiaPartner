@@ -17,8 +17,10 @@ y_mot = 0;
 
 x_mov = 0;
 
-safe_x = 0;
-safe_y = 0;
+low_x = 320;
+high_x = 640;
+safe_time = room_speed * 3;
+cur_safe = 0;
 
 anim_num = 0;
 anim_left = 0;

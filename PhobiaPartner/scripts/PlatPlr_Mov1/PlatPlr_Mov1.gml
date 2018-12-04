@@ -96,3 +96,11 @@ if flash > 0 {
 		image_alpha = 1;
 	}
 }
+
+if x < low_x or x > high_x {
+	cur_safe += 1;
+	
+}
+else {
+	cur_safe = 0
+}

@@ -711,6 +711,14 @@
             }
         },
         {
+            "Key": "75890c24-a715-4297-b378-471a18e4737d",
+            "Value": {
+                "id": "4b13adf1-773e-482d-b3af-6f0d22a9ccbe",
+                "resourcePath": "sprites\\Danger_Zone_SPR\\Danger_Zone_SPR.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7b4d7912-fd26-4b64-8619-f0e514d04897",
             "Value": {
                 "id": "ec9c06b4-a3a6-430c-8ead-272de19e24b9",
