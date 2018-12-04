@@ -34,8 +34,16 @@
             "Key": "000c6081-6aa4-4db2-92d7-8ab5da0c7c94",
             "Value": {
                 "id": "a6c02e67-b48f-41f1-b5ef-3d707edd3226",
-                "resourcePath": "sprites\\Rock_Pink\\Rock_Pink.yy",
+                "resourcePath": "sprites\\Boulder_Blue\\Boulder_Blue.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "016813e9-5b4f-4576-bb4c-9675e9b9446b",
+            "Value": {
+                "id": "c4042afb-a84a-48f9-84c5-25af257bc5a6",
+                "resourcePath": "objects\\Fallen_Tree_Purple\\Fallen_Tree_Purple.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -823,6 +831,14 @@
             }
         },
         {
+            "Key": "8b65609d-d7b5-49c0-94cc-4769518f8727",
+            "Value": {
+                "id": "4abe0759-ad8e-4ed4-a24f-c41d1b1fe0d2",
+                "resourcePath": "objects\\Yellow_Stump\\Yellow_Stump.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8b84d4a5-5fdd-4598-89d0-686b2c7f7c18",
             "Value": {
                 "id": "5749e57a-f7fa-4235-9f10-c5225ac115bf",
@@ -1119,6 +1135,14 @@
             }
         },
         {
+            "Key": "b793e896-01cb-4b52-b267-5db07cf79311",
+            "Value": {
+                "id": "7b0585cd-405c-499e-bd78-a1f908022131",
+                "resourcePath": "objects\\Blue_Stump\\Blue_Stump.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b941d1b4-9e27-4881-b547-f0ef3e7faaed",
             "Value": {
                 "id": "e35e31a3-537d-4e8d-a374-fd6937d8ca4b",
@@ -1295,6 +1319,14 @@
             }
         },
         {
+            "Key": "d78e9fbf-ca29-48c7-a010-832a447b6068",
+            "Value": {
+                "id": "caddd748-84e1-40e0-968d-7d4e6dc46afa",
+                "resourcePath": "sprites\\Boulder_Pink\\Boulder_Pink.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d9d60f68-855f-455b-b487-cd00938b254c",
             "Value": {
                 "id": "35035006-0fcb-407e-a811-4af67c8a2162",
@@ -1372,14 +1404,6 @@
                 "id": "fa10b160-da8b-4cc3-8c5b-2d19f91863f0",
                 "resourcePath": "objects\\HowTo\\HowTo.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "e5eb7a4a-fc57-455e-8d45-e0b6607b801d",
-            "Value": {
-                "id": "40fc922a-e768-4368-9108-d74a05f6fc94",
-                "resourcePath": "sprites\\Rock_Blue\\Rock_Blue.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
