@@ -287,6 +287,14 @@
             }
         },
         {
+            "Key": "204e656a-fc2c-47d1-8162-cae7d1c0e973",
+            "Value": {
+                "id": "ba98e77f-6a0c-4a9a-a61d-40f0e5c31c17",
+                "resourcePath": "sprites\\sprite53\\sprite53.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "24eb76a3-494d-4233-a0aa-867c375c7e8c",
             "Value": {
                 "id": "3f64878e-def6-4e16-9192-f650a26ec2fb",
@@ -604,6 +612,14 @@
                 "id": "1737f120-5716-4f96-b2a0-2e5b7d1a5aad",
                 "resourcePath": "views\\5a3de3a8-66c7-4630-b733-5c3a030d630d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5d93a149-3516-4dff-beaa-5823c9dfa332",
+            "Value": {
+                "id": "d460d3e9-8590-48f8-a7bf-cf80ad077367",
+                "resourcePath": "sprites\\Dialogue_Box\\Dialogue_Box.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -939,6 +955,14 @@
             "Value": {
                 "id": "f204af65-deab-40fa-8105-39deb216b30d",
                 "resourcePath": "objects\\Blue_Rock\\Blue_Rock.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a0b033db-a963-441b-9d2d-0ddd043c21d0",
+            "Value": {
+                "id": "44ee9af9-3eb8-4bad-8706-3bab5e53cc09",
+                "resourcePath": "objects\\Dialogue_Box_OBJ\\Dialogue_Box_OBJ.yy",
                 "resourceType": "GMObject"
             }
         },
