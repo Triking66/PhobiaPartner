@@ -1581,6 +1581,14 @@
                 "resourcePath": "objects\\Asset_Fridge\\Asset_Fridge.yy",
                 "resourceType": "GMObject"
             }
+        },
+        {
+            "Key": "fdd292c3-7f42-45d6-a6ef-4a1eb13f6e6b",
+            "Value": {
+                "id": "5a35b0b7-92de-413f-a3a9-834deee5ac21",
+                "resourcePath": "objects\\object52\\object52.yy",
+                "resourceType": "GMObject"
+            }
         }
     ],
     "script_order": [
