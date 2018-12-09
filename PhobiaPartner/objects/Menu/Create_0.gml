@@ -1,5 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
+audio_stop_all();
+
 display_set_gui_size(1920,1080);
 audio_play_sound(Main_Menu_Song_zombiemusic__happy_horror, 1, true);
 

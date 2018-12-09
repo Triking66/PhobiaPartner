@@ -1023,6 +1023,14 @@
             }
         },
         {
+            "Key": "a278874f-3021-4342-beab-af3a599f5b57",
+            "Value": {
+                "id": "1ebc8b42-7744-4cfa-a406-813d236045ee",
+                "resourcePath": "objects\\Dialogue_Box_2_OBJ\\Dialogue_Box_2_OBJ.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a3824d0b-52ee-4690-81ff-e02bc8e1a5df",
             "Value": {
                 "id": "27df5a3f-d095-4032-83d1-de4a9c4e05f2",

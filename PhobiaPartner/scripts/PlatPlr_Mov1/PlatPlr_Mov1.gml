@@ -99,8 +99,13 @@ if flash > 0 {
 
 if x < low_x or x > high_x {
 	cur_safe += 1;
-	
+	if !audio_is_playing(heavy_breathing) {
+		audio_play_sound(heavy_breathing, 2, true);
+	}
 }
 else {
+	if(audio_is_playing(heavy_breathing)){
+		audio_stop_sound(heavy_breathing);
+	}
 	cur_safe = 0
 }

@@ -31,3 +31,7 @@ flash = 0;
 flash_time = 50;
 
 level_end = false;
+
+draw_set_color(c_dkgray);
+
+audio_play_sound(Level_2_Song_doxent___Kaaistoep, 1, true);

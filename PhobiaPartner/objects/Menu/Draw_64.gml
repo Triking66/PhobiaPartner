@@ -10,3 +10,5 @@ for (i=0; i<= y_max; i++) {
 	draw_text(xx,yy+i*150,text[i]);	
 }
 draw_set_halign(fa_left);
+
+draw_text(150, 900, "Arrow keys to select option.\nEnter to confirm.");

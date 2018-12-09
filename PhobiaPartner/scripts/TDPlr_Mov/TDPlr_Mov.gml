@@ -1,18 +1,18 @@
 x_mov = 0;
 y_mov = 0;
-if keyboard_check(ord("W")){
+if keyboard_check(ord("W")) or keyboard_check(vk_up){
 	y_mov -= 1;	
 	anim_dir = 3;
 }
-if keyboard_check(ord("S")){
+if keyboard_check(ord("S")) or keyboard_check(vk_down){
 	y_mov += 1;	
 	anim_dir = 2;
 }
-if keyboard_check(ord("A")){
+if keyboard_check(ord("A")) or keyboard_check(vk_left){
 	x_mov -= 1;
 	anim_dir = 1;
 }
-if keyboard_check(ord("D")){
+if keyboard_check(ord("D")) or keyboard_check(vk_right){
 	x_mov += 1;
 	anim_dir = 0;
 }
